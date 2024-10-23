@@ -1,0 +1,7 @@
+{
+    "sender": "votre_email@example.com",
+    "recipient": "votre_email@example.com",
+    "subject": "Facture téléchargé",
+    "body_text": "Veuillez trouver en pièce jointe le fichier téléchargé avec Selenium.",
+    "aws_region": "eu-west-3"
+}

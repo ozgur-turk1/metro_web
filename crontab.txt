@@ -1,0 +1,1 @@
+0 0 1 * * /home/ubuntu/metro_web/run_selenium_and_send_mail.sh >> /home/ubuntu/metro_web/logs/cron_log_$(date +\%Y-\%m-\%d).log 2>&1
